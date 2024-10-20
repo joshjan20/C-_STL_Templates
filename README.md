@@ -1,4 +1,4 @@
-# README: Understanding Function Templates in C++
+# Function Templates in C++
 
 ## Lets see the advantages of templates in C++
 In C++, functions are often used to perform common operations like addition, subtraction, etc. But when we need to perform these operations on different data types (like `int`, `float`, etc.), we either have to write multiple functions or we can use **templates** to make our code more reusable and flexible. 
